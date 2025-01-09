@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "petfinder-matcher"
+name = "petfinder-matcher-api"
 version = "0.1.0"
 description = ""
 authors = ["Tiffani Frost <tiffani.frost57+1@gmail.com>"]
